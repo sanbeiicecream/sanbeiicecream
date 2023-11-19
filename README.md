@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📔blog: 【地址】(https://sanbeiicecream.github.io/)  
-【⚡加速】(https://sanbeiicecream.github.io/)  
+📔blog: [地址](https://sanbeiicecream.github.io/)  
+[⚡加速](https://sanbeiicecream.github.io/)  
