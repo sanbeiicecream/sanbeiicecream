@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 📔blog: [地址](https://sanbeiicecream.github.io/)  
-[⚡](https://blog.jysgdyc.top/)  
+[⚡⚡⚡⚡⚡](https://blog.jysgdyc.top/)  
